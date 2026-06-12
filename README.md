@@ -2,6 +2,7 @@
   <img src="./assets/banner.jpg" width="100%">
 </div>
 
+<br></br>
 <table>
 <tr>
 <td width="35%" align="center">
@@ -48,80 +49,6 @@ Driven by curiosity, research, and the challenge of turning complex ideas into p
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
-## What I'm Building
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### 📚 Anthology
-> Research Intelligence Platform for scientific literature.
->
-> • Hybrid Retrieval (Dense + Sparse Search)
-> • Research Question Answering
-> • Citation-Grounded Responses
-> • FastAPI · PostgreSQL · pgvector
->
-> 🔗 [Repository](https://github.com/Rupinder51120/Anthology)
-
-<br>
-
-### 🔬 PaperLens
-> Multimodal Platform for Scientific Document Understanding.
->
-> • Vision-Language Models
-> • Figure & Table Understanding
-> • Multimodal Retrieval
-> • Research Analytics
-
-<br>
-
-### 🍀 CLOVER
-> Full-Stack Flutter Application.
->
-> • Mobile-First Design
-> • Clean Architecture
-> • Modern UI/UX
->
-> 🔗 [Repository](https://github.com/Rupinder51120/CLOVER)
-
-<br>
-
-### 🎵 Music Genre Classification
-> Audio Machine Learning Project.
->
-> • Feature Extraction
-> • Genre Prediction
-> • Audio Signal Processing
->
-> 🔗 [Repository](https://github.com/Rupinder51120/Music_Genre_Classification)
-
-<br>
-
-### 👤 Face Detection System
-> Computer Vision Project.
->
-> • Face Detection Pipeline
-> • OpenCV & Deep Learning Methods
->
-> 🔗 [Repository](https://github.com/Rupinder51120/Face-detection)
-
-</td>
-<td width="35%" align="center" valign="top">
-
-<img src="assets/2.jpg" width="320"/>
-
-<br><br>
-
-**Currently Exploring**
-
-Conversational AI · Multimodal AI · Generative AI · Retrieval Systems
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
 ## 🏆 Highlight
 
@@ -131,64 +58,56 @@ Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The 
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
-## Tech Stack
 
 <div align="center">
 
-**Languages**
+<img src="./assets/2.jpg" width="220"/>
 
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Dart](https://skillicons.dev/icons?i=dart)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<br>
 
-**Frontend & Backend**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=260&height=45&lines=Tech+Stack" />
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Streamlit](https://skillicons.dev/icons?i=streamlit)
-![Docker](https://skillicons.dev/icons?i=docker)
+<br>
 
-**AI / ML & Tools**
+<img src="https://skillicons.dev/icons?i=python,cpp,js,dart,postgres,flutter,fastapi,docker,pytorch,git,github,linux&perline=12" />
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
 
-*Also working with: LangChain · HuggingFace Transformers · pgvector · RAG Pipelines · Computer Vision · OpenCV*
+
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-B0E0FF?style=for-the-badge&logo=chainlink&logoColor=1E293B"/>
+  <img src="https://img.shields.io/badge/HuggingFace-B0E0FF?style=for-the-badge&logo=huggingface&logoColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Streamlit-B0E0FF?style=for-the-badge&logo=streamlit&logoColor=1E293B"/>
+  <img src="https://img.shields.io/badge/pgvector-B0E0FF?style=for-the-badge&logo=postgresql&logoColor=1E293B"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG_Pipelines-B0E0FF?style=for-the-badge&logoColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-B0E0FF?style=for-the-badge&logoColor=1E293B"/>
+  <img src="https://img.shields.io/badge/OpenCV-B0E0FF?style=for-the-badge&logo=opencv&logoColor=1E293B"/>
+</p>
+
 
 </div>
 
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&bg_color=EAF6FF&title_color=4A90C4&text_color=1E293B&icon_color=87CEEB&hide=contribs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupinder51120&layout=compact&hide_border=true&bg_color=EAF6FF&title_color=4A90C4&text_color=1E293B&langs_count=6" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&bg_color=EAF7FF&title_color=87CEEB&text_color=1E293B&icon_color=87CEEB"/>
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=Rupinder51120&hide_border=true&background=EAF7FF&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=6B7280"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
-
-## Activity
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rupinder51120&style=flat-square&color=87CEEB&label=Profile+Views)
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rupinder51120&hide_border=true&background=EAF6FF&ring=87CEEB&fire=4A90C4&currStreakLabel=1E293B&sideLabels=1E293B&dates=6B7280&stroke=A7D8F0&currStreakNum=4A90C4&sideNums=4A90C4" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rupinder51120&theme=nord&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="Trophies" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=EAF6FF&color=4A90C4&line=87CEEB&point=1E293B&area=true&area_color=A7D8F0&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
@@ -196,12 +115,3 @@ Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The 
 
 <br/>
 
-<div align="center">
-
-**Open to AI/ML Internships · Software Engineering Internships · Research Engineering Roles**
-
-*Mansa, Punjab, India · rkaur3_be23@thapar.edu*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer" alt="footer" />
-
-</div>
