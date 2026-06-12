@@ -1,7 +1,6 @@
 <div align="center">
-
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Rupinder%20Kaur&fontSize=42&fontColor=1E293B&fontAlignY=38&desc=Computer%20Science%20%40%20TIET%20%E2%80%94%20AI%20Engineer%20%7C%20Full%20Stack%20Builder&descSize=16&descAlignY=60&descFontColor=1E293B" alt="hero" />
+  <img src="./assets/banner.jpg" width="100%">
+</div>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
