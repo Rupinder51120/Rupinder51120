@@ -196,16 +196,12 @@ Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rupinder51120&theme=flat&no-frame=true&no-bg=false&column=6&margin-w=8&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rupinder51120&theme=nord&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="Trophies" />
 
 <br/>
 
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Contribution Graph — 1989 sky blue theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=EAF6FF&color=4A90C4&line=87CEEB&point=1E293B&area=true&area_color=A7D8F0&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
