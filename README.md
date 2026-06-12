@@ -167,6 +167,36 @@ Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 
 ---
 
+## Activity
+
+<div align="center">
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Rupinder51120&style=flat-square&color=87CEEB&label=Profile+Views)
+
+<br/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Rupinder51120&hide_border=true&background=EAF6FF&ring=87CEEB&fire=4A90C4&currStreakLabel=1E293B&sideLabels=1E293B&dates=6B7280&stroke=A7D8F0&currStreakNum=4A90C4&sideNums=4A90C4" alt="GitHub Streak" />
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rupinder51120&theme=flat&no-frame=true&no-bg=false&column=6&margin-w=8&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="Trophies" />
+
+<br/>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rupinder51120/Rupinder51120/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 **Open to AI/ML Internships · Software Engineering Internships · Research Engineering Roles**
