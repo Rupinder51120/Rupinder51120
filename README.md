@@ -50,7 +50,7 @@ Driven by curiosity, research, and the challenge of turning complex ideas into p
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
 
-## 🏆 Highlight
+## Highlights
 
 **3rd Place — Israel–India Hackathon**
 
@@ -94,23 +94,23 @@ Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The 
 
 
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
+
+
+
+
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&bg_color=EAF7FF&title_color=87CEEB&text_color=1E293B&icon_color=87CEEB"/>
 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=Rupinder51120&hide_border=true&background=EAF7FF&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=6B7280"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=6B7280&text_color=475569&icon_color=94A3B8"/>
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=Rupinder51120&hide_border=true&background=FAFAFA&ring=94A3B8&fire=94A3B8&currStreakLabel=6B7280&sideLabels=475569&currStreakNum=475569&sideNums=475569&dates=94A3B8"/>
 
 </div>
 
 <br/>
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=EAF6FF&color=4A90C4&line=87CEEB&point=1E293B&area=true&area_color=A7D8F0&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=FAFAFA&color=6B7280&line=94A3B8&point=475569&area=true&area_color=E2E8F0&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br/>
