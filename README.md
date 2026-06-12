@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
 ## About
 
@@ -26,7 +26,9 @@ My main focus is on **Retrieval-Augmented Generation** — designing pipelines t
 
 I believe the most interesting problems right now sit at the intersection of language models, structured retrieval, and real product design.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=true&section=footer" width="100%" />
+</div>
 
 ## What I'm Building
 
@@ -38,7 +40,9 @@ I believe the most interesting problems right now sit at the intersection of lan
 
 **Currently learning:** Multimodal RAG · Agentic AI · Advanced retrieval systems
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,A7D8F0,EAF6FF&height=80&section=footer&reversal=false" width="100%" />
+</div>
 
 ## Featured Projects
 
@@ -105,7 +109,9 @@ Computer vision project using classical and deep-learning detection methods.
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF6FF,A7D8F0,87CEEB&height=80&section=header&reversal=true" width="100%" />
+</div>
 
 ## Highlight
 
@@ -113,7 +119,9 @@ Computer vision project using classical and deep-learning detection methods.
 
 Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The system combined conversational AI with sentiment analysis to route patient interactions and trigger automated escalation workflows when distress signals were detected.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=false&section=footer" width="100%" />
+</div>
 
 ## Tech Stack
 
@@ -145,7 +153,9 @@ Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The 
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,A7D8F0,EAF6FF&height=80&section=footer" width="100%" />
+</div>
 
 ## Education
 
@@ -154,7 +164,9 @@ Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 
 *Relevant coursework: Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · Software Engineering · Conversational AI*
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=true&section=footer" width="100%" />
+</div>
 
 ## GitHub Stats
 
@@ -165,7 +177,9 @@ Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF6FF,A7D8F0,87CEEB&height=80&section=header&reversal=true" width="100%" />
+</div>
 
 ## Activity
 
@@ -195,14 +209,14 @@ Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 
 </div>
 
----
-
 <div align="center">
+
+<br/>
 
 **Open to AI/ML Internships · Software Engineering Internships · Research Engineering Roles**
 
 *Mansa, Punjab, India · rkaur3_be23@thapar.edu*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=80&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer" alt="footer" />
 
 </div>
