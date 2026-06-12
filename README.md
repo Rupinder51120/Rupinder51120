@@ -1,108 +1,127 @@
-<!-- ============================================================ -->
-<!--                    RUPINDER DANDIWAL                        -->
-<!--              GitHub Profile README — v2.1                   -->
-<!--   Design: Apple-inspired · Sky Blue · Minimal · Clean       -->
-<!-- ============================================================ -->
-
-
-<!-- ============================================================ -->
-<!-- HERO SECTION                                                 -->
-<!-- EDIT NAME, TITLE, AND TAGLINE HERE                          -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<br>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Rupinder%20Kaur&fontSize=42&fontColor=1E293B&fontAlignY=38&desc=Computer%20Science%20%40%20TIET%20%E2%80%94%20AI%20Engineer%20%7C%20Full%20Stack%20Builder&descSize=16&descAlignY=60&descFontColor=1E293B" alt="hero" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8F4FD&height=120&text=Rupinder%20Dandiwal&fontColor=1E293B&fontSize=38&fontAlignY=45&desc=Computer%20Science%20%40%20TIET%20%C2%A0%C2%B7%C2%A0%20AI%20Engineer%20%C2%A0%C2%B7%C2%A0%20Full%20Stack%20Developer&descSize=15&descAlignY=72&descFontColor=4A6B8A" width="100%" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=4A90C4&center=true&vCenter=true&width=540&lines=Building+Anthology+%26+PaperLens;AI+Systems+%7C+RAG+%7C+Full+Stack;Open+to+AI%2FML+%26+SWE+Internships" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-*"Hey, it's me. Building systems that turn information into understanding."*
-
-<br>
-
-<!-- CONTACT BADGES — UPDATE LINKS HERE -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupinder_Dandiwal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupinder-kaur-2249a6295)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-reeo__ooer-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/reeo_ooer/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-rkaur3__be23%40thapar.edu-5BAFEC?style=flat-square&logo=gmail&logoColor=white)](mailto:rkaur3_be23@thapar.edu)
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupinder%20Kaur-%2387CEEB?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/rupinder-kaur-2249a6295)
+[![LeetCode](https://img.shields.io/badge/LeetCode-reeo__ooer-%2387CEEB?style=flat-square&logo=leetcode&logoColor=white&labelColor=1E293B)](https://leetcode.com/u/reeo_ooer/)
+[![Email](https://img.shields.io/badge/Email-rkaur3__be23@thapar.edu-%2387CEEB?style=flat-square&logo=gmail&logoColor=white&labelColor=1E293B)](mailto:rkaur3_be23@thapar.edu)
 
 </div>
 
----
-
-<!-- ============================================================ -->
-<!-- ABOUT SECTION                                                -->
-<!-- UPDATE ABOUT TEXT HERE                                      -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A7D8F0&height=3" width="100%" />
 
 ## About
 
-I'm a third-year Computer Science student at Thapar Institute of Engineering & Technology, focused on building software that's both technically rigorous and genuinely useful.
+I'm a third-year Computer Science student at Thapar Institute of Engineering & Technology, currently spending most of my time building AI systems that make research more accessible.
 
-My work spans **full-stack engineering**, **AI systems**, and **product development** — I care about the entire stack: from system architecture and backend design, to the experience a user actually has at the end of it. I'm drawn to problems that sit at the intersection of well-engineered software and AI that actually works in production.
+My main focus is on **Retrieval-Augmented Generation** — designing pipelines that go beyond keyword search to actually understand research papers. I care about the full stack: from how a document is chunked and embedded, to what the user sees in the final interface.
 
-My elective interest is **Conversational AI** — exploring how language models can be embedded into real systems that assist and extend human understanding.
+I believe the most interesting problems right now sit at the intersection of language models, structured retrieval, and real product design.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=true&section=footer" width="100%" />
+</div>
 
-<!-- ============================================================ -->
-<!-- PROJECTS SECTION                                             -->
-<!-- ADD, REMOVE, OR REORDER PROJECTS HERE                       -->
-<!-- ============================================================ -->
+## What I'm Building
+
+| Project | What it is | Status |
+|---|---|---|
+| **[Anthology](https://github.com/Rupinder51120/Anthology)** | Research intelligence platform — RAG over scientific literature, hybrid retrieval, evaluation pipelines | 🔵 Active |
+| **PaperLens** | Multimodal platform for scientific document understanding — vision + language models for figure-level retrieval | 🔵 Active |
+| **[CLOVER](https://github.com/Rupinder51120/CLOVER)** | Full-stack Flutter application | 🔵 Active |
+
+**Currently learning:** Multimodal RAG · Agentic AI · Advanced retrieval systems
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,A7D8F0,EAF6FF&height=80&section=footer&reversal=false" width="100%" />
+</div>
 
 ## Featured Projects
 
-<br>
+<details>
+<summary><b>Anthology — Research Intelligence Platform</b> &nbsp;⭐ Flagship</summary>
 
-**⭐ Anthology — Research Intelligence Platform** &nbsp;·&nbsp; [View Repository →](https://github.com/Rupinder51120/Anthology)
+<br/>
 
-> End-to-end AI platform for scientific research — PDF ingestion, hybrid retrieval, evaluation pipelines, and AI-assisted research workflows. Built with a focus on production-grade architecture from day one.
+> A RAG system built specifically for scientific literature — not just retrieval, but research-grade question answering.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-&nbsp;&nbsp;`🟢 Active`
+**Core work:**
+- Hybrid retrieval over PostgreSQL + pgvector (dense + sparse)
+- FastAPI backend with structured evaluation pipelines
+- Research question answering with citation grounding
 
----
+[→ View Repository](https://github.com/Rupinder51120/Anthology)
 
-**CLOVER — AI Travel Intelligence Platform** &nbsp;·&nbsp; [View Repository →](https://github.com/Rupinder51120/clover)
+</details>
 
-> Full-stack application built with Flutter and FastAPI — itinerary generation, personalized recommendations, and a clean mobile experience. Focused on product quality as much as technical depth.
+<details>
+<summary><b>PaperLens — Multimodal Research Intelligence</b></summary>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-&nbsp;&nbsp;`🟢 Active`
+<br/>
 
----
+> Extending document understanding to figures, tables, and charts — not just text.
 
-**Music Genre Classification** &nbsp;·&nbsp; [View Repository →](https://github.com/Rupinder51120/Music_Genre_Classification)
+**Core work:**
+- Vision + language model integration for scientific PDFs
+- Multimodal retrieval across figures and text
+- Research analytics layer
 
-> Audio feature extraction and ML classification pipeline for genre prediction using spectral analysis and deep learning.
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-&nbsp;&nbsp;`🔵 Complete`
+<details>
+<summary><b>CLOVER — Full Stack Application</b></summary>
 
-<br>
+<br/>
 
----
+Built with Flutter. Focus on clean architecture and mobile-first design.
 
-<!-- ============================================================ -->
-<!-- TECH STACK SECTION                                           -->
-<!-- ADD NEW SKILLS OR CATEGORIES HERE                           -->
-<!-- skillicons: https://skillicons.dev                          -->
-<!-- shields: https://shields.io                                 -->
-<!-- ============================================================ -->
+[→ View Repository](https://github.com/Rupinder51120/CLOVER)
+
+</details>
+
+<details>
+<summary><b>Music Genre Classification</b></summary>
+
+<br/>
+
+Audio ML project — feature extraction and genre prediction from raw audio signals.
+
+[→ View Repository](https://github.com/Rupinder51120/Music_Genre_Classification)
+
+</details>
+
+<details>
+<summary><b>Face Detection System</b></summary>
+
+<br/>
+
+Computer vision project using classical and deep-learning detection methods.
+
+[→ View Repository](https://github.com/Rupinder51120/Face-detection)
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF6FF,A7D8F0,87CEEB&height=80&section=header&reversal=true" width="100%" />
+</div>
+
+## Highlight
+
+**🏆 3rd Place — Israel–India Hackathon**
+
+Built an AI-powered healthcare assistant for REUTH Rehabilitation Hospital. The system combined conversational AI with sentiment analysis to route patient interactions and trigger automated escalation workflows when distress signals were detected.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=false&section=footer" width="100%" />
+</div>
 
 ## Tech Stack
 
@@ -110,133 +129,90 @@ My elective interest is **Conversational AI** — exploring how language models 
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,dart)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Dart](https://skillicons.dev/icons?i=dart)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-**Frameworks**
+**Frontend & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,fastapi)](https://skillicons.dev)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Streamlit](https://skillicons.dev/icons?i=python)
+![Docker](https://skillicons.dev/icons?i=docker)
 
-**AI & Data**
+**AI / ML**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,postgres)](https://skillicons.dev)
-&nbsp;
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode)](https://skillicons.dev)
+*Also working with: LangChain · HuggingFace Transformers · pgvector · RAG pipelines · Computer Vision*
 
 </div>
 
-<br>
-
----
-
-<!-- ============================================================ -->
-<!-- HIGHLIGHTS SECTION                                           -->
-<!-- UPDATE ACHIEVEMENTS AND ACTIVITIES HERE                     -->
-<!-- ============================================================ -->
-
-## Highlights
-
-🏆 &nbsp;**3rd Place** — Israel–India Hackathon
-
-📚 &nbsp;**Conversational AI** Elective
-
-💻 &nbsp;Building production-grade AI systems end-to-end
-
-🌱 &nbsp;Exploring Multimodal AI & Agentic Systems
-
-<br>
-
----
-
-<!-- ============================================================ -->
-<!-- EDUCATION SECTION                                            -->
-<!-- UPDATE DEGREE, CGPA, AND COURSEWORK BADGES HERE             -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,A7D8F0,EAF6FF&height=80&section=footer" width="100%" />
+</div>
 
 ## Education
 
 **B.E. Computer Science & Engineering**
-Thapar Institute of Engineering & Technology &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA 8.3
+Thapar Institute of Engineering & Technology · 2023–2027 · CGPA 8.3
 
-<br>
+*Relevant coursework: Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · Software Engineering · Conversational AI*
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-![CN](https://img.shields.io/badge/Computer_Networks-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-![SE](https://img.shields.io/badge/Software_Engineering-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-![ConvAI](https://img.shields.io/badge/Conversational_AI-5BAFEC?style=flat-square&color=5BAFEC&logoColor=white)
-
-<br>
-
----
-
-<!-- ============================================================ -->
-<!-- GITHUB STATS SECTION                                         -->
-<!-- UPDATE USERNAME IN WIDGET URLS IF USERNAME CHANGES          -->
-<!-- Keeping: Stats card + Streak card only                      -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10&height=60&reversal=true&section=footer" width="100%" />
+</div>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&count_private=true&title_color=5BAFEC&icon_color=5BAFEC&text_color=444444&bg_color=00000000" />
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=Rupinder51120&hide_border=true&ring=5BAFEC&fire=5BAFEC&currStreakLabel=5BAFEC&sideLabels=444444&dates=888888&background=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rupinder51120&show_icons=true&hide_border=true&bg_color=EAF6FF&title_color=4A90C4&text_color=1E293B&icon_color=87CEEB&hide=contribs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupinder51120&layout=compact&hide_border=true&bg_color=EAF6FF&title_color=4A90C4&text_color=1E293B&langs_count=6" />
 
 </div>
 
-<br>
-
----
-
-<!-- ============================================================ -->
-<!-- ACTIVITY SECTION                                             -->
-<!-- UPDATE USERNAME IF IT CHANGES                               -->
-<!-- Keeping: Contribution graph only                            -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF6FF,A7D8F0,87CEEB&height=80&section=header&reversal=true" width="100%" />
+</div>
 
 ## Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=00000000&color=5BAFEC&line=5BAFEC&point=1E293B&area=true&area_color=E8F4FD&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Rupinder51120&style=flat-square&color=87CEEB&label=Profile+Views)
+
+<br/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Rupinder51120&hide_border=true&background=EAF6FF&ring=87CEEB&fire=4A90C4&currStreakLabel=1E293B&sideLabels=1E293B&dates=6B7280&stroke=A7D8F0&currStreakNum=4A90C4&sideNums=4A90C4" alt="GitHub Streak" />
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rupinder51120&theme=nord&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="Trophies" />
+
+<br/>
+
+<!-- Contribution Graph — 1989 sky blue theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupinder51120&bg_color=EAF6FF&color=4A90C4&line=87CEEB&point=1E293B&area=true&area_color=A7D8F0&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
-
-<br>
-
----
-
-<!-- ============================================================ -->
-<!-- FOOTER SECTION                                               -->
-<!-- UPDATE OPENNESS STATEMENT AND CONTACT LINKS HERE            -->
-<!-- ============================================================ -->
 
 <div align="center">
 
-**Open to**
+<br/>
 
-`AI/ML Internships` &nbsp;·&nbsp; `Software Engineering Internships` &nbsp;·&nbsp; `Research Engineering Roles`
+**Open to AI/ML Internships · Software Engineering Internships · Research Engineering Roles**
 
-*Open to Remote & On-Site Opportunities*
+*Mansa, Punjab, India · rkaur3_be23@thapar.edu*
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupinder-kaur-2249a6295)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rupinder51120)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-5BAFEC?style=flat-square&logo=gmail&logoColor=white)](mailto:rkaur3_be23@thapar.edu)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer" alt="footer" />
 
 </div>
-
-<!-- ============================================================ -->
-<!-- END OF README                                                -->
-<!-- ============================================================ -->
