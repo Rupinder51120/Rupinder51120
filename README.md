@@ -3,7 +3,7 @@
 <h2 align="center">Rupinder Kaur</h2>
 
 <p align="center">Computer Science &nbsp;·&nbsp; Thapar Institute of Engineering & Technology &nbsp;·&nbsp; 21</p>
-<p align="center"><i>is it supposed to be fun turning 21?</i></p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupinder-kaur-2249a6295"><img src="https://img.shields.io/badge/-LinkedIn-4B5563?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
